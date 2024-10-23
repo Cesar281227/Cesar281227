@@ -1,4 +1,10 @@
-## Hi there 👋
+oi sejam bem-vindos ao meu perfil 
+
+* meu nome é Cesar Augusto Fonseca Rossato 
+* Estou estudando na Alura Start
+* Estou desenvolvendo na linguagem Java Scripit
+* Utilizo esse espaço para a miinha organização e compartilhamento dos projetos desenvolvidos
+
 
 <!--
 **Cesar281227/Cesar281227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
