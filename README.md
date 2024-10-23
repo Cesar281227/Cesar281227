@@ -1,4 +1,4 @@
-oi sejam bem-vindos ao meu perfil 
+Oi sejam bem-vindos ao meu perfil 
 
 * meu nome é Cesar Augusto Fonseca Rossato 
 * Estou estudando na Alura Start
